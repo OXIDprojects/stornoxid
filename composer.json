@@ -1,0 +1,16 @@
+{
+    "name": "pflaesterer/stornoxid",
+    "type": "oxideshop-module",
+    "license": "MIT",
+    "extra": {
+        "oxideshop": {
+            "target-directory": "pflaesterer/stornoxid"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Pflaesterer\\StornOxid\\": "./"
+        }
+    }
+}
+
