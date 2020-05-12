@@ -18,7 +18,7 @@ $aModule = array(
         'en'=>'Adds the possibility to undo a storno on a cancelled order.',
         'de'=>'Ermöglicht die Reaktivierung einer stornierten Bestellung.',
     ),
-    'version'      => '1.0.0',
+    'version'      => '1.0.1',
     'author'       => 'Philip Pflästerer',
 
     'extend'      => [
