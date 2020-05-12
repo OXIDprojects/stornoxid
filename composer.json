@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pflaesterer\\StornOxid\\": "./"
+            "Pflaesterer\\StornOxid\\": "../../../source/modules/pflaesterer/stornoxid"
         }
     }
 }
